@@ -129,7 +129,9 @@ Power BI • SQL • Data Analytics
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hiruni-siyambalapitiya&show_icons=true&theme=github_dark"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruni-siyambalapitiya&layout=compact&theme=github_dark"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiruni-siyambalapitiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 </p>
 
 ## 📫 Connect With Me
