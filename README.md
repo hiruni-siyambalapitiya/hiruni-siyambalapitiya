@@ -136,9 +136,9 @@ Power BI • SQL • Data Analytics
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://linkedin.com/in/hiruni-siyambalapitiya
 
-📧 Email: your-email@example.com
+📧 Email:hirusiyabala@gmail.com
 
 📄 Resume: https://hirunisiyambalapitiyaportfolio.lovable.app
 
