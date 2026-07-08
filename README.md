@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner(2).png" width="100%" alt="GitHub Banner">
+  <img src="banner (2).png" width="100%" alt="GitHub Banner">
 </p>
 
 # Hi 👋 I'm Hiruni Siyambalapitiya
